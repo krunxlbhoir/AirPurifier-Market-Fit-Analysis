@@ -26,10 +26,12 @@ This project helps AirPure Innovations assess product-market fit using real AQI 
 ---
 
 ## 📂 Folder Structure:
-- `/PowerBI` – Final PBIX file  
-- `/Python` – Jupyter notebooks for all primary & secondary questions  
-- `/Data` – Cleaned datasets used  
-- `/Assets` – Backgrounds, images, and video thumbnail
+- `/power bi` – Final PBIX file  
+- `/colab` – Notebooks for all primary & secondary questions  
+- `/dataset` – raw datasets used  
+- `/assets` – Backgrounds, images, and video thumbnail
+- `/cleaned data` - Cleaned datasets used
+- `/dashboard preview` - Screenshots of dashboard
 
 ---
 
