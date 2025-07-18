@@ -31,7 +31,7 @@ This project helps AirPure Innovations assess product-market fit using real AQI 
 ---
 
 ## 📸 Screenshots:
-![Dashboard Preview](Assets/screenshots/preview1.png)
+![Dashboard Preview](dashboard_preview)
 
 ---
 
