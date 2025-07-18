@@ -25,16 +25,6 @@ This project helps AirPure Innovations assess product-market fit using real AQI 
 
 ---
 
-## 🎥 Video Demo:
-📺 [Watch My Project Video on LinkedIn](your_link_here)
-
----
-
-## 📸 Screenshots:
-![Dashboard Preview](dashboard_preview)
-
----
-
 ## 📂 Folder Structure:
 - `/PowerBI` – Final PBIX file  
 - `/Python` – Jupyter notebooks for all primary & secondary questions  
