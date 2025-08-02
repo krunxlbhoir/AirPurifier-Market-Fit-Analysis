@@ -6,6 +6,10 @@ This project helps AirPure Innovations assess product-market fit using real AQI 
 
 ---
 
+https://app.powerbi.com/view?r=eyJrIjoiODE5MmM2N2QtOWQ0My00NzBkLWJlMGItYWViMWM1YzRiMmQ0IiwidCI6IjYxMTQ1YmVmLWFlZjgtNGNiNS1hZTk1LTdjMmM4M2E5Mjc1YiJ9&pageName=5df15e31348af248ac94
+
+---
+
 ## 📁 Project Highlights:
 - ✅ AQI Severity Mapping across India
 - ✅ Health correlation using IDSP outbreak data
@@ -31,7 +35,7 @@ This project helps AirPure Innovations assess product-market fit using real AQI 
 - `/dataset` – raw datasets used  
 - `/assets` – Backgrounds, images, and video thumbnail
 - `/cleaned data` - Cleaned datasets used
-- `/dashboard preview` - Screenshots of dashboard
+- `/dashboard preview` - Pdf of dashboard
 
 ---
 
